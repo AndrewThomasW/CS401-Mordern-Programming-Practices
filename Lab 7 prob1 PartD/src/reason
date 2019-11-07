@@ -1,0 +1,1 @@
+The HashMap key ie:- Employee is not immutable, it gives a setter method for visited and this changes the value after the hash has already been computed.
