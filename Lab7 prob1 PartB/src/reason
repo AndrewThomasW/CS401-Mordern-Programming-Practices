@@ -1,0 +1,2 @@
+The .contains method of list uses the equals from Object class which is overriden in the Employee class
+with the Employee type in its arguments instead of Object type.
